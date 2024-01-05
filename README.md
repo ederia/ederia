@@ -4,7 +4,7 @@ Welcome to the E-Deria application repository! This application serves as a tool
 
 ## Overview
 
-Provide a brief overview of what your application does.
+E-Deria is built for use by Kolej Kejuruteraan at UiTM Shah Alam. This app has Bluetooth functionality to connect with IoT devices and also includes map functionality to locate and store sampling point locations. The app is built with synchronization features, allowing it to sync sampling point locations with InfluxDB, and it also has an offline feature for use without an internet connection.
 
 ## Features
 
